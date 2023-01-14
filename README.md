@@ -29,3 +29,4 @@ Headways entre veículos [min/veic]: 8.571428571428571
 Fluxos de vianges [viagens/h]: 7.0
 Capacidade máxima na seção crítica [pax/h]: 560.0
 ```
+Baseado nas aulas do Prof. Manoel M. de C. Neto na disciplina de Operação de Sistemas de Trasnporte (OST) em Engenharia Civil na Universidade Federal do Ceará (UFC)
